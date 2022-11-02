@@ -8,6 +8,8 @@
 
 - [Internet Download Manager](./Internet%20Download%20Manager/)
 
+- [Typora](./Typora/)
+
 ## 说明
 
 非原创，搬运整理！欢迎 `PR` 和 `Issue`！
